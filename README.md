@@ -1,4 +1,4 @@
-# jibes-and-delights-woah2021
+# jibes-and-delights
 
 - The `raw` directory contains the original data scraped from Reddit, in a .csv
   format
